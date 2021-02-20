@@ -5,15 +5,19 @@ A simple project made for my subject "Structure of Computers" for my Bachelor's 
 
 ## Screenshots 
 Main menu
+
 ![Main menu](/images/main-menu.png)
 
 Starting board
+
 ![Starting board](/images/starting-board.png)
 
 Victory
+
 ![Victory](/images/victory.png)
 
 Defeat
+
 ![Defeat](/images/defeat.png)
 
 
@@ -35,9 +39,13 @@ Run/debug the game
 In the main menu you can choose the option 6 to play the game with the assembly code, or do it with the C code. The game is identical in both of them.
 
 Play it!
+
 i - Move the tile up
+
 k - Move the tile down
+
 l - Move the tile right
+
 j - Move the tile left
 
 

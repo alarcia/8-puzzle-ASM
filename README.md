@@ -36,6 +36,7 @@ Generate the object file
 `gcc -no-pie –o 8-puzzle 8-puzzle.o 8-puzzle.c`
 	
 Run/debug the game
+
 `kdbg 8-puzzle`
 	
 In the main menu you can choose the option 6 to play the game with the assembly code, or do it with the C code. The game is identical in both of them.

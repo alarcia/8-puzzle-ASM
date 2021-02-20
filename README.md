@@ -52,9 +52,9 @@ j - Move the tile left
 If the game is too difficult for you, you can easily increase the maximum moves by changing a variable in the code.
 For ASM game, on line 870:
 
-    mov r10d, ***9***
+`mov r10d, 9`
 
 For C game, on line 494:
 
-    int moves = ***9***;
+`int moves = 9;`
 	
